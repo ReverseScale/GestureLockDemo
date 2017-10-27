@@ -2,17 +2,17 @@
 Swift 版手势滑动锁🔐
 
 ![](https://img.shields.io/badge/platform-iOS-red.svg) 
-![](https://img.shields.io/badge/language-Objective--C-orange.svg) 
-![](https://img.shields.io/badge/download-791K-brightgreen.svg)
+![](https://img.shields.io/badge/language-Swift-orange.svg) 
+![](https://img.shields.io/badge/download-2.6MB-brightgreen.svg)
 ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
 ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
 
 除了指纹和你的脸，还有一种常用的验证方式，就是手势验证，虽然安全性不高，但是也可以加层密不是
 
-| 名称 |1.列表页 |2.展示页 |3.结果页 |
+| 名称 |1.列表页 |2.设置页 |3.验证页 |
 | ------------- | ------------- | ------------- | ------------- |
-| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/49394070.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/43197086.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-7-6/14637275.jpg) |
-| 描述 | 通过 storyboard 搭建基本框架 | 字典排列前 | 字典排列后 |
+| 截图 | ![](http://og1yl0w9z.bkt.clouddn.com/17-10-27/17278377.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-10-27/86991446.jpg) | ![](http://og1yl0w9z.bkt.clouddn.com/17-10-27/82927257.jpg) |
+| 描述 | 通过 storyboard 搭建基本框架 | 设置时展示 | 验证时展示 |
 
 
 ## Advantage 框架的优势
