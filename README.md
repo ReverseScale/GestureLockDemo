@@ -5,7 +5,6 @@ Swift 版手势滑动锁🔐
 ![](https://img.shields.io/badge/language-Swift-orange.svg) 
 ![](https://img.shields.io/badge/download-2.6MB-brightgreen.svg)
 ![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
-![](https://img.shields.io/badge/license-MIT%20License-brightgreen.svg) 
 
 除了指纹和你的脸，还有一种常用的验证方式，就是手势验证，虽然安全性不高，但是也可以加层密不是
 
