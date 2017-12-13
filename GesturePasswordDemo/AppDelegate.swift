@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  GestureLockDemo
+//  GesturePasswordDemo
 //
-//  Created by WhatsXie on 2017/10/27.
+//  Created by WhatsXie on 2017/12/13.
 //  Copyright © 2017年 R.S. All rights reserved.
 //
 

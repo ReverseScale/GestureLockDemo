@@ -1,14 +1,14 @@
 //
-//  GestureLockDemoUITests.swift
-//  GestureLockDemoUITests
+//  GesturePasswordDemoUITests.swift
+//  GesturePasswordDemoUITests
 //
-//  Created by WhatsXie on 2017/10/27.
+//  Created by WhatsXie on 2017/12/13.
 //  Copyright © 2017年 R.S. All rights reserved.
 //
 
 import XCTest
 
-class GestureLockDemoUITests: XCTestCase {
+class GesturePasswordDemoUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
