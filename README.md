@@ -2,6 +2,8 @@
 Swift 版手势滑动锁🔐
 
 🔔：此 Demo 已更新，新版手势解锁基于 'GesturePassword' 实现，感谢作者 huangboju，下面的内容只是没删而已...
+----
+-----
 
 ![](https://img.shields.io/badge/platform-iOS-red.svg) 
 ![](https://img.shields.io/badge/language-Swift-orange.svg) 
